@@ -1,71 +1,50 @@
-# Getting Started with Create React App
+# Modal Yönetim Projesi 🎉
+Sunum, React ve Redux kullanarak geliştirdiğim bir modal yönetim projesidir. Bu proje ile kullanıcılar dinamik içerikleri kolayca oluşturabilir, güncelleyebilir ve silebilir. React, Redux, ve TailwindCSS gibi modern teknolojiler kullanılarak geliştirilmiştir.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Proje Özeti
+Bu projede, dinamik verilerin kolayca yönetilmesi için modal açma, düzenleme, güncelleme ve silme işlemleri yapılabilir. Kullanıcı dostu arayüzü ve hızlı yanıt süreleri ile verilerinizi kolayca kontrol edebileceksiniz.
 
-## Available Scripts
+# Kullanılan Teknolojiler ve Kütüphaneler 🚀
+React: Dinamik ve etkileşimli kullanıcı arayüzleri oluşturmak için kullanıldı. ⚛️
+Redux: Uygulamanın durumunu yönetmek için kullanıldı. 🔄
+TailwindCSS: Şık ve özelleştirilebilir stiller oluşturmak için kullanıldı. 🎨
+React Router DOM: Uygulama yönlendirmelerini yapmak için kullanıldı. 🧭
+React Icons: Modern ve kullanıcı dostu simgeler için kullanıldı. 🔲
+React Scripts: Proje geliştirme ve yapılandırma için kullanıldı. 🔧
+ESLint: Kod kalitesini yüksek tutmak için kullanıldı. ✅
+Özellikler ✨
+Modal Yönetimi: İçerik ekleme, güncelleme ve silme işlemleri için dinamik modallar.
+Redux ile Durum Yönetimi: Tüm veriler tek bir merkezde yönetilerek performans artırıldı.
+Responsive Tasarım: Mobil uyumlu şık tasarımlar.
+Hızlı ve Etkileşimli Kullanıcı Deneyimi: Verilerin anında güncellenmesi.
+Kolay Entegrasyon: Başka projelere hızlıca entegre edilebilir.
 
-In the project directory, you can run:
+#Geliştirme 💡
+Proje geliştirme sürecinde katkı sağlamak isterseniz, aşağıdaki adımları takip edebilirsiniz:
 
-### `npm start`
+Yeni bir branch oluşturun:
+git checkout -b feature/your-feature
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Yapmak istediğiniz değişiklikleri gerçekleştirin.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Değişikliklerinizi commit edin:
+git commit -m "Özellik ekle veya düzeltme yap"
 
-### `npm test`
+Push edin:
+git push origin feature/your-feature
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Pull Request oluşturun.
 
-### `npm run build`
+#İletişim 📬
+Projeye dair herhangi bir sorunuz veya geri bildiriminiz varsa, aşağıdaki yöntemlerle benimle iletişime geçebilirsiniz:
+E-posta:akgundogduesr@gmail.com
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+#Ekran Görüntüsü:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+https://github.com/user-attachments/assets/45cee2d2-6495-45ad-813c-da530b015d2c
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# ModManage-Project
